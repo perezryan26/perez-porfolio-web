@@ -14,7 +14,7 @@ function Banner() {
                     </div>
                 
                     <div className="d-flex flex-column flex-md-row mb-2 mb-md-0">
-                        <a className="btn button-secondary causten-bold project-button ms-3 mb-2 mb-md-0" href={Resume} target="_blank">
+                        <a className="btn button-secondary causten-bold project-button ms-3 mb-2 mb-md-0" href={Resume} target="_blank" rel="noreferrer">
                             <span>Resume</span>
                         </a>
                         <a className="btn button-secondary causten-bold project-button ms-3" href="mailto:perezryan26@gmail.com">
@@ -37,7 +37,7 @@ function Banner() {
                         </span>
                     </div>
                     <div className="debug col-md-6 bio-col text-right code-icon-div animate__animated animate__fadeIn animate__delay-05s">
-                        <img src={CodeIcon} className="code-icon debug" />
+                        <img src={CodeIcon} className="code-icon debug" alt="code moon icon"/>
                     </div>
                 </div>
             </div>
