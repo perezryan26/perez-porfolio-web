@@ -1,6 +1,5 @@
 // src/components/Banner.js
 import React from 'react';
-import Odyssey from '../assets/images/img1.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import { faScrewdriverWrench } from '@fortawesome/free-solid-svg-icons';

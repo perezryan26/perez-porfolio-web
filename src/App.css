@@ -337,9 +337,8 @@
 }
 
 .text-green {
-  -webkit-text-stroke: 1px #47FF75; /* Adjust the thickness and color as needed */
-  text-stroke: 1px #47FF75; /* Adjust the thickness and color as needed */
-  color: transparent; /* Make the text transparent to show only the stroke */
+  -webkit-text-stroke: 1px #47FF75;
+  color: transparent;
 }
 
 .text-offwhite {
