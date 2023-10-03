@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faScrewdriverWrench } from '@fortawesome/free-solid-svg-icons';
 import { faLaptopCode } from '@fortawesome/free-solid-svg-icons';
 import { faCircleNodes } from '@fortawesome/free-solid-svg-icons';
-import { faGithub } from '@fortawesome/free-brands-svg-icons';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Banner() {

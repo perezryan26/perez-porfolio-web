@@ -2,9 +2,6 @@
 import React from 'react';
 import Headshot from '../assets/images/headshot.jpg';
 import CodeIcon from '../assets/images/undraw_banner.svg';
-import CircleIcon from '../logo.svg';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPaperPlane } from '@fortawesome/free-solid-svg-icons';
 import Resume from '../assets/Perez_Ryan_Resume.pdf';
 
 function Banner() {
