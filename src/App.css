@@ -464,7 +464,6 @@ width: 100%;
   display: flex ;
   width: 100%;
   will-change: visibility ;
-  margin-bottom: 5rem;
 }
 
 .project-cont-reverse {
@@ -637,6 +636,10 @@ width: 100%;
 
 .skill-card {
   padding-bottom: 3rem;
+}
+
+.margin-btm-project {
+  margin-bottom: 3rem;
 }
 
 
@@ -846,7 +849,6 @@ width: 100%;
     align-items: center !important;
     flex-direction: row !important;
     max-width: 1024px !important;
-    margin-bottom: 15rem !important;
   }
 
   .project-cont-reverse {
@@ -854,6 +856,10 @@ width: 100%;
     align-items: center !important;
     flex-direction: row !important;
     max-width: 1024px !important;
+  }
+
+  .margin-btm-project {
+    margin-bottom: 15rem !important;
   }
 
   .project-img-cont {
